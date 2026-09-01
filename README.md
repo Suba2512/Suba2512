@@ -5,7 +5,7 @@ Focused on Deep Learning, Accessibility Tech & Intelligent Systems
 
 ---
 
-## 🎯 About Me
+##  About Me
 I am an AI & Data Science student passionate about building intelligent systems that solve real-world problems.  
 My focus lies in **Deep Learning, Assistive AI, and impactful technology for society**.
 
@@ -13,7 +13,7 @@ I enjoy turning ideas into working systems — especially those that improve acc
 
 ---
 
-## 🧠 Focus Areas
+##  Focus Areas
 - Deep Learning & Industrial AI  
 - Neural Networks & Brain-Inspired Computing  
 - Accessibility Technology (AI for Social Good)  
@@ -50,7 +50,7 @@ C programming learning journey repository
 
 ---
 
-## 🧠 Currently Exploring
+##  Currently Exploring
 - Edge AI for real-time assistive systems  
 - Quantum Neural Networks (Quant-A-Thon'26 @ RIT Chennai)  
 - Advanced DSA & Object-Oriented Programming  
@@ -58,18 +58,17 @@ C programming learning journey repository
 
 ---
 
-## 💡 Interests
-- AI for Social Good 🌍  
-- Medical & Assistive Technology 🏥  
-- Space Exploration & ISRO 🚀  
+##  Interests
+- AI for Social Good   
+- Medical & Assistive Technology  
 - Poetry & Creative Thinking ✍️  
 
 ---
 
-## 📌 Quote I Believe In
+##  Quote I Believe In
 > “Building AI systems that don’t just compute — but assist, include, and empower.”
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 - LinkedIn: [Muthu Subalakshmi](https://www.linkedin.com/in/muthu-subalakshmi-s-7a5a0a37a/)
