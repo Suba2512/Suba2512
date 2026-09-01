@@ -17,7 +17,7 @@ I enjoy turning ideas into working systems — especially those that improve acc
 - Deep Learning & Industrial AI  
 - Neural Networks & Brain-Inspired Computing  
 - Accessibility Technology (AI for Social Good)  
-- Space Tech & ISRO-related Applications  
+
 
 ---
 
